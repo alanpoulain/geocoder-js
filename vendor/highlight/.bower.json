@@ -1,12 +1,12 @@
 {
-  "name": "cdn-release",
+  "name": "highlight",
   "homepage": "https://github.com/highlightjs/cdn-release",
-  "version": "10.1.1",
-  "_release": "10.1.1",
+  "version": "10.1.2",
+  "_release": "10.1.2",
   "_resolution": {
     "type": "version",
-    "tag": "10.1.1",
-    "commit": "61bfc76f992417b92b35cb23e7a0acc49d461765"
+    "tag": "10.1.2",
+    "commit": "b9179c9d09dfae05d16facd5e8be2844574c340e"
   },
   "_source": "https://github.com/highlightjs/cdn-release.git",
   "_target": "^10.1.1",
